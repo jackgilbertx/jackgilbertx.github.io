@@ -1,3 +1,5 @@
 .underline {text-decoration: underline;}
 .diva {line-height: 0.18cm;}
-.divb {float: right;}
+.divb {position: absolute;
+    top: 8px;
+    right: 16px;}
